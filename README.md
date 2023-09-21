@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Adia and I'm a Senior Computer Science Major with a concentration in Information Assurance. My main aread of interest is Cybersecurity.
 
 <!--
 **asakural/asakural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
